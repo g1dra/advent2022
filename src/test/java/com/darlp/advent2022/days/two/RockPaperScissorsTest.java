@@ -53,5 +53,4 @@ public class RockPaperScissorsTest {
         assertEquals(12429, sum);
     }
 
-
 }
